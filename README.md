@@ -59,7 +59,7 @@ PLAYDATA 데이터 엔지니어링 30기<br/><br/>
 
 더불어, 2021년부터 2023년까지 서울시 내 행정구역별로 범위를 세분화하여 다시 자료를 분류한 결과이다. <br/>
 개업 매장 수 : 강남구 > 마포구 > 송파구<br/>
-폐업 매장 수 : 강남구 > 마포구 > 강서구
+폐업 매장 수 : 강남구 > 마포구 > 강서구<br/>
 
 <div>
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/6_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
