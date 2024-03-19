@@ -69,6 +69,7 @@ Hadoop, Hive, Sqoop, MySQL : 일반음식점과 휴게음식점 데이터 분석
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/6_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/5_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
 </div>
+
 커피 물가가 상승한 2022년도에 집중하여 살펴보면, 강남구, 마포구, 송파구 순으로 개업 매장수가 높았으며, 강남구, 마포구, 강서구 순으로 폐업 매장 수가 높아, 동일한 행정구역에서 매년 비슷한 추이가 나타고 있음이 관찰되었다.<br/>
 
 #### 활동 인구(종사자수)와 카페 개폐업 간의 관계
