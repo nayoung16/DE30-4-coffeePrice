@@ -1,7 +1,10 @@
 # ☕ 2022년도 커피 물가 상승 요인 및 커피 소비 분석 프로젝트
 ### 🌱 TEAM
 PLAYDATA 데이터 엔지니어링 30기<br/>
-🍬[김나영](https://github.com/nayoung16) 🍫[김보경](https://github.com/michelle9876) 🍦[정제윤](https://github.com/JeongJeaYoon) 🍧[최예림](https://github.com/CYERIM)
+🧁 [김나영](https://github.com/nayoung16)<br/>
+🍫  [김보경](https://github.com/michelle9876)<br/>
+🍦  [정제윤](https://github.com/JeongJeaYoon)<br/>
+🍧 [최예림](https://github.com/CYERIM)<br/>
 
 프로젝트 일정 : 2024년 03월 14일 ~ 2024년 03월 18일
 ### 🚀 Used Tech
