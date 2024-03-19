@@ -1,7 +1,7 @@
 # ☕ 2022년도 커피 물가 상승 요인 및 커피 소비 분석 프로젝트
 ### 🌱 TEAM
 PLAYDATA 데이터 엔지니어링 30기<br/>
-[김나영](https://github.com/nayoung16) [김보경](https://github.com/michelle9876) [정제윤](https://github.com/JeongJeaYoon) [최예림](https://github.com/CYERIM)
+🍬[김나영](https://github.com/nayoung16) 🍫[김보경](https://github.com/michelle9876) 🍦[정제윤](https://github.com/JeongJeaYoon) 🍧[최예림](https://github.com/CYERIM)
 
 프로젝트 일정 : 2024년 03월 14일 ~ 2024년 03월 18일
 ### 🚀 Used Tech
@@ -85,12 +85,13 @@ Hadoop, Hive, Sqoop, MySQL : 일반음식점과 휴게음식점 데이터 분석
 **영등포구**<br/>
 카페 개폐업 수: 개업이 폐업보다 많은 편임.<br/>
 
-### 3. 일반 외식 식당 개폐업 수 조사
+### 3. 커피 수입량 조사
+#### 원두 수입량과 음식점 개폐업의 관계
 <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/coffee_bean/%EC%9B%90%EB%91%90_%EC%88%98%EC%9E%85%EB%9F%89%EA%B3%BC_%EC%9D%8C%EC%8B%9D%EC%A0%90_%EA%B0%9C%ED%8F%90%EC%97%85_%EC%88%98_%EB%B9%84%EA%B5%90_(2021~2023).png"><br/>
 그렇다면, 카페 이외에 외식 산업에도 변화가 있었는지 살펴보자.<br/> 
 2022년도를 기준으로 서울시 내 일반 음식점의 개폐업 매장 수를 보니, 개업 및 폐업 매장 모두 전반적으로 상승세를 보이고 있으나, 폐업 매장이 개업 매장보다 더 변화 폭이 큰 그래프가 그려지고 있음이 보인다. 특히, 2월에는 개업매장이 최하점을 찍고 있고, 12월에는 폐업 매장이 최고점을 찍고 있다. 이러한 결과를 바탕으로 커피를 비롯한 외식비 상승으로 인한 영향이 음식점의 개업 및 폐업에도 영향을 미치고 있음이 보여진다. 
-### 4. 커피 수입량 조사
-#### 원두 수입량과 카페와 음식점 개폐업의 관계
+#### 원두 수입량과 카페 개폐업의 관계
+<img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/coffee_bean/%EC%9B%90%EB%91%90_%EC%88%98%EC%9E%85%EB%9F%89%EA%B3%BC_%EC%B9%B4%ED%8E%98_%EA%B0%9C%ED%8F%90%EC%97%85_%EC%88%98_%EB%B9%84%EA%B5%90_(2021~2023).png"><br/>
 원두 수입량을 기준으로 커피 소비량을 가정하였을 때, 커피의 소비량이 카페의 개폐업에 미치는 영향을 살펴보자. 원두의 수입량은 폐업 매장과 개업 매장과 전반적으로 비례하는 그래프를 그리고 있다. 커피의 소비는 매장의 개업 및 폐업에 큰 영향을 받지 않고 꾸준하게 이루어지고 있음을 볼 수 있다. 일반음식점의 경우, 개폐업의 수치가 대체적으로 원두 수입량보다 더 낮은 수치를 보인다. 더불어, 개업 및 폐업의 변화가 원두의 수입량보다 더 변화폭이 큰 것으로 보여진다.
 #### 원두 수입량
 <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/coffee_bean/%EA%B3%84%EC%A0%88%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%9B%90%EB%91%90%20%EC%88%98%EC%9E%85%EB%9F%89%20%EB%B9%84%EA%B5%90(2021~2023).png">
