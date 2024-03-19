@@ -36,14 +36,22 @@ PLAYDATA 데이터 엔지니어링 30기<br/><br/>
 키워드 : 커피 물가, 외식 상승, 스타벅스, 원두 수입
 #### 워드 클라우드
 2022년에는 커피 물가뿐만 아니라 외식 업계 전반에서 물가 상승 이슈가 있었다. 다수의 커피 프렌차이즈가 가격을 인상했으며, 이 가운데 스타벅스가 이 상승 트렌드를 주도한 것으로 보인다. 급격한 물가 상승 후에는 카페 프렌차이즈들이 자체적으로 상생 협약을 체결하고, 정부도 부가세 면제 정책을 시행하여 불안정한 시장을 안정화하기 위한 다양한 노력을 기울였다.
-### 2. 물가 상승으로 인한 커피 시장 변화와 소비 변화
+### 2. 커피 물가 상승으로 인한 카페 시장 변화
+#### 2022년 카페 개업 현황 지도 시각화
+<img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/map/restarants_open_map.png">
+
+#### 2022년 카페 폐업 현황 지도 시각화
+<img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/map/restarants_closed_map.png">
+
 #### 카페 개폐업 수 조사
 <div>
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/1_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%A0%84%EC%B2%B4_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%EC%97%B0%EB%8F%84%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/2_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%A0%84%EC%B2%B4_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%EC%97%B0%EB%8F%84%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500>
 </div>
     
-커피의 생활물가지수의 변동폭이 컸던 2022년도를 기점으로 2021년부터 2023년까지 카페의 개업 및 폐업 현황 자료를 수집하였다.  서울시로 조사 범위를 한정하여 자료를 조회한 결과, 개업 및 폐업의 전체적인 추이는 상승세였고, 2023년도에 폐업 매장은 2000개 가량 넘는 매장 수를 기록하고, 개업 매장(인허가 받은 매장을 기준으로 함.)은 2500넘는 매장 수를 보이며 더 높은 수치를 기록했다. 
+커피의 생활물가지수의 변동폭이 컸던 2022년도를 기점으로 2021년부터 2023년까지 카페의 개업 및 폐업 현황 자료를 수집하였다.  서울시로 조사 범위를 한정하여 자료를 조회한 결과, 개업 및 폐업의 전체적인 추이는 상승세였고, 2023년도에 폐업 매장은 2000개 가량 넘는 매장 수를 기록하고, 개업 매장(인허가 받은 매장을 기준으로 함.)은 2500넘는 매장 수를 보이며 더 높은 수치를 기록했다.
+
+
 <div>
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/3_%EC%84%9C%EC%9A%B8%EC%8B%9C_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/4_%EC%84%9C%EC%9A%B8%EC%8B%9C_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
@@ -52,6 +60,7 @@ PLAYDATA 데이터 엔지니어링 30기<br/><br/>
 더불어, 2021년부터 2023년까지 서울시 내 행정구역별로 범위를 세분화하여 다시 자료를 분류한 결과이다. <br/>
 개업 매장 수 : 강남구 > 마포구 > 송파구<br/>
 폐업 매장 수 : 강남구 > 마포구 > 강서구
+
 <div>
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/6_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
   <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/5_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
@@ -61,24 +70,26 @@ PLAYDATA 데이터 엔지니어링 30기<br/><br/>
 #### 활동 인구(종사자수)와 카페 개폐업 간의 관계
 서울시 행정구 별 카페 개폐업 수 비교
 사업체가 많은 곳에 소비자(회사원)가 많은 지역일수록 커피 소비가 꾸준히 이루어져 물가 상승과 상관없이 안정적인 카페 시장을 유지하는 경향이 있을 것으로 추측하여, 종사자수 상위 5곳을 선정하여 행정구 별로 종사자 수와 카페 개폐업 수를 비교해보았다.
-(자료참고:행정구별 종사자수 합계, 서울시 2022년 폐업 카페 행정구역별 분포, 서울시 2022년 인허가된 카페 행정구역별 분포)
-<img src="">
-강남구, 송파구
-카페 개폐업 수: 폐업 수가 개업 수에 비해 높은 경향이 있음.
-서초구, 중구
-카페 개폐업 수: 폐업과 개업이 모두 적은 편임.
-영등포구
-카페 개폐업 수: 개업이 폐업보다 많은 편임.
+<img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/coffee_bean/%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EC%A2%85%EC%82%AC%EC%9E%90%EC%88%98_top5.png">
+**강남구, 송파구**<br/>
+카페 개폐업 수: 폐업 수가 개업 수에 비해 높은 경향이 있음.<br/>
+**서초구, 중구**<br/>
+카페 개폐업 수: 폐업과 개업이 모두 적은 편임.<br/>
+**영등포구**<br/>
+카페 개폐업 수: 개업이 폐업보다 많은 편임.<br/>
 
-#### 일반 외식 식당 개폐업 수 조사
+### 3. 일반 외식 식당 개폐업 수 조사
 <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/coffee_bean/%EC%9B%90%EB%91%90_%EC%88%98%EC%9E%85%EB%9F%89%EA%B3%BC_%EC%9D%8C%EC%8B%9D%EC%A0%90_%EA%B0%9C%ED%8F%90%EC%97%85_%EC%88%98_%EB%B9%84%EA%B5%90_(2021~2023).png"><br/>
 그렇다면, 카페 이외에 외식 산업에도 변화가 있었는지 살펴보자.<br/> 
 2022년도를 기준으로 서울시 내 일반 음식점의 개폐업 매장 수를 보니, 개업 및 폐업 매장 모두 전반적으로 상승세를 보이고 있으나, 폐업 매장이 개업 매장보다 더 변화 폭이 큰 그래프가 그려지고 있음이 보인다. 특히, 2월에는 개업매장이 최하점을 찍고 있고, 12월에는 폐업 매장이 최고점을 찍고 있다. 이러한 결과를 바탕으로 커피를 비롯한 외식비 상승으로 인한 영향이 음식점의 개업 및 폐업에도 영향을 미치고 있음이 보여진다. 
-#### 커피 수입량 조사
-
-
-
-
+### 4. 커피 수입량 조사
+#### 원두 수입량과 카페와 음식점 개폐업의 관계
+원두 수입량을 기준으로 커피 소비량을 가정하였을 때, 커피의 소비량이 카페의 개폐업에 미치는 영향을 살펴보자. 원두의 수입량은 폐업 매장과 개업 매장과 전반적으로 비례하는 그래프를 그리고 있다. 커피의 소비는 매장의 개업 및 폐업에 큰 영향을 받지 않고 꾸준하게 이루어지고 있음을 볼 수 있다. 일반음식점의 경우, 개폐업의 수치가 대체적으로 원두 수입량보다 더 낮은 수치를 보인다. 더불어, 개업 및 폐업의 변화가 원두의 수입량보다 더 변화폭이 큰 것으로 보여진다.
+#### 원두 수입량
+<img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/coffee_bean/%EA%B3%84%EC%A0%88%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EC%9B%90%EB%91%90%20%EC%88%98%EC%9E%85%EB%9F%89%20%EB%B9%84%EA%B5%90(2021~2023).png">
+커피 소비량 데이터를 찾고자 하였으나, 현실적으로 관련 데이터 수집이 어려워, 고안해낸 방법이 원두 수입량 데이터가 원두 수입량과 비슷할 것이라고 생각되어, 원두 수입량 데이터를 수집하여 분석하였다. 하지만 원두 수입량 데이터 기반으로 분석을 하였을 때, 원두 수입량과 커피소비량이 비례하지 않았고 관련성이 떨어져 있는 것으로 보였다. 원두 수입량은 수확 계절에 영향을 많이 받는다는 것으로 판단이 되었고,
+그에 해당한 계절에 따른 원두 수입량 데이터를 분석해 보았다.
+계절에 따른 원수 수입량 그래프를 2021년~ 2023년, 3년동안 데이터를 분석했을 때, 주로 5월, 9월에 수입량이 다른 시즌보다 현저히 떨어지는 것으로 보인다.
 
 ## ☕ 프로젝트 결과
 
