@@ -55,15 +55,15 @@ Hadoop, Hive, Sqoop, MySQL : 일반음식점과 휴게음식점 데이터 분석
 
 #### 카페 개폐업 수 조사
 <div>
-  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/1_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%A0%84%EC%B2%B4_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%EC%97%B0%EB%8F%84%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
-  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/2_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%A0%84%EC%B2%B4_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%EC%97%B0%EB%8F%84%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
+  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/1_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%A0%84%EC%B2%B4_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%EC%97%B0%EB%8F%84%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="400">
+  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/2_%EC%84%9C%EC%9A%B8%EC%8B%9C_%EC%A0%84%EC%B2%B4_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%EC%97%B0%EB%8F%84%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="400">
 </div>
     
 커피의 생활물가지수의 변동폭이 컸던 2022년도를 기점으로 2021년부터 2023년까지 카페의 개업 및 폐업 현황 자료를 수집하였다.  서울시로 조사 범위를 한정하여 자료를 조회한 결과, 개업 및 폐업의 전체적인 추이는 상승세였고, 2023년도에 폐업 매장은 2000개 가량 넘는 매장 수를 기록하고, 개업 매장(인허가 받은 매장을 기준으로 함.)은 2500넘는 매장 수를 보이며 더 높은 수치를 기록했다.<br/>
 
 <div>
-  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/3_%EC%84%9C%EC%9A%B8%EC%8B%9C_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
-  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/4_%EC%84%9C%EC%9A%B8%EC%8B%9C_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
+  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/3_%EC%84%9C%EC%9A%B8%EC%8B%9C_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="400">
+  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/4_%EC%84%9C%EC%9A%B8%EC%8B%9C_2021%EB%85%84%EB%B6%80%ED%84%B0_2023%EB%85%84%EA%B9%8C%EC%A7%80_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="400">
 </div>
 
 더불어, 2021년부터 2023년까지 서울시 내 행정구역별로 범위를 세분화하여 다시 자료를 분류한 결과이다. <br/>
@@ -71,8 +71,8 @@ Hadoop, Hive, Sqoop, MySQL : 일반음식점과 휴게음식점 데이터 분석
 폐업 매장 수 : 강남구 > 마포구 > 강서구<br/>
 
 <div>
-  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/5_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
-  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/6_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="500">
+  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/5_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%ED%8F%90%EC%97%85_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="400">
+  <img src="https://github.com/pladata-encore/DE30-4-coffeePrice/blob/main/3.img/visualization/cafe/6_%EC%84%9C%EC%9A%B8%EC%8B%9C_2022%EB%85%84_%EC%9D%B8%ED%97%88%EA%B0%80_%EC%B9%B4%ED%8E%98_%ED%96%89%EC%A0%95%EA%B5%AC%EC%97%AD%EB%B3%84_%EB%B6%84%ED%8F%AC.png" width="400">
 </div>
 
 커피 물가가 상승한 2022년도에 집중하여 살펴보면, 강남구, 마포구, 송파구 순으로 개업 매장수가 높았으며, 강남구, 마포구, 강서구 순으로 폐업 매장 수가 높아, 동일한 행정구역에서 매년 비슷한 추이가 나타고 있음이 관찰되었다.<br/>
